@@ -43,6 +43,9 @@ void MainWindow::updateInterface(int id, int x, int y){
     case 4: //Atualiza a posição do objeto da tela (quadrado) que representa o trem4
         ui->label_trem4->setGeometry(x,y,21,17);
         break;
+    case 5: //Atualiza a posição do objeto da tela (quadrado) que representa o trem4
+        ui->label_trem5->setGeometry(x,y,21,17);
+        break;
     default:
         break;
     }

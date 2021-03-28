@@ -2325,7 +2325,7 @@ QSlider::sub-page:horizontal {
      <enum>Qt::Horizontal</enum>
     </property>
    </widget>
-   <widget class="QLabel" name="label_trem4_2">
+   <widget class="QLabel" name="label_trem5">
     <property name="geometry">
      <rect>
       <x>880</x>
@@ -2849,7 +2849,7 @@ QSlider::sub-page:horizontal {
    <zorder>horizontalSlider_3</zorder>
    <zorder>label_trem4</zorder>
    <zorder>horizontalSlider_4</zorder>
-   <zorder>label_trem4_2</zorder>
+   <zorder>label_trem5</zorder>
    <zorder>horizontalSlider_5</zorder>
   </widget>
   <widget class="QMenuBar" name="menuBar">
