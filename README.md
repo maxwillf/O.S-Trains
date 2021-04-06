@@ -3,7 +3,7 @@
 ## Developers:
   Gustavo Batista de Araújo Gorgônio e Max William Souto Filgueira 
 
-## link para video de explicação do projeto:
+## Link para video de explicação do projeto:
   https://drive.google.com/file/d/1aqVJ4m4niJDNkvWggK-8dt-Xf3C6sbev/view?usp=sharing
 
 ## Build:
