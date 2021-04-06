@@ -1,8 +1,7 @@
 # O.S-Trains
 
 ## Developers:
-  Gustavo Batista de Araújo Gorgônio
-  Max William Souto Filgueira 
+  Gustavo Batista de Araújo Gorgônio e Max William Souto Filgueira 
 
 ## Build:
   Para executar nosso programa é necessário instalar o software Qt Creator 4.5.2 based on Qt 5.9.5.
